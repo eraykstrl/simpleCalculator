@@ -1,1 +1,1 @@
-There is some problem sin,cos,cot,tan functions actually these are small problem if i have enough time i will correct that. I have a lot of problem and i dont have enough time to correct that.
+There is some problem sin,cos,cot,tan functions actually these are small project if i have enough time i will correct that. I have a lot of problem and i dont have enough time to correct that.
